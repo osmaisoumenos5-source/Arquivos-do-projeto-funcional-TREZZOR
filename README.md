@@ -1,0 +1,1 @@
+Esses dois arquivos são  essenciais para  que o aplicativo funcione. Um deles é o banco de dados central do aplicativo, e o outro são os codigos da IDE NetBeans, responsavel pela interface e funcionalidade do projeto.
